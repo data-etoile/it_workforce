@@ -9,3 +9,4 @@ I have conducted an analysis of the level of digital skills in EU countries usin
 
 By examining these competences, the analysis aims to provide insights into the digital skills landscape across different individuals' groups and EU countries.
 
+You can access as well to data on women's representation in the IT industry, including information about age and education levels.
